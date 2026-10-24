@@ -1,0 +1,5 @@
+# Datos generados (se pueden recrear con datos/generar_datos.py)
+datos/salida/
+*.csv
+*.db
+__pycache__/
